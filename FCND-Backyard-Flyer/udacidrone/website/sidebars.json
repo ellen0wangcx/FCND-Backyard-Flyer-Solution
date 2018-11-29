@@ -1,0 +1,29 @@
+{
+  "docs": {
+    "Introduction": [
+      "welcome",
+      "getting-started"
+    ],
+    "Drone API": [
+    	"drone-api",
+    	"drone-attributes"
+    ],
+    "Connection API": [
+    	"connection-api",
+      "connection-interface"
+    ],
+    "Platforms": [
+      "platform-simulator",
+      "platform-crazyflie",
+      "platform-px4"
+    ],
+    "Tutorials": [
+      "tutorial-shell",
+      "tutorial-script",
+      "tutorial-visdom"
+    ],
+    "Development": [
+      "dev-setup"
+    ]
+  }
+}
